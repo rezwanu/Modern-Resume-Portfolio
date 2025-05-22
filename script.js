@@ -144,3 +144,6 @@ window.addEventListener("scroll", setActiveLink);
 
 // AOS instal
 AOS.init();
+
+
+
